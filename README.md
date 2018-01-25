@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Piconet
+Piconet is a content collection of Free and Open materials generated and built by a community of like minded people to enhance the learning and living experience.
+The proposed content is currently:
 
-You can use the [editor on GitHub](https://github.com/ch1x0r/piconet/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Gutenberg Project
+OpenStreetMaps
+And a BUNCH of funny cat videos! 
+(and other stuff)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Be a part of this Community love! <3
+-aicra
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For decades we have been compiling and creating free content.
+Now... is the time to distribute this content to the world.
+Many people have 0 internet access. They still live without content. Some of these people are hungry and curious for content.
+Let's take what we've built and
+APPLY it!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ch1x0r/piconet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
