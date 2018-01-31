@@ -1,0 +1,9 @@
+Community Members already connected:
+
+Greg Newby - Gutenberg
+Serge W and Steve Coast - OpenStreetMap
+Jonathan Dugan - PLOS
+Brian Warner - Samsung
+Josh Aas - Let's Encrypt
+Frank K and Jos - Nextcloud
+Can we find a CMS that is not PHP based?
